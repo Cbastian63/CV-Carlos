@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Currículum de Carlos Sabando</title>
+</head>
+<body>
+  <h1>Carlos Sebastian Sabando Zambrano</h1>
+  <p><strong>Email:</strong> sebastiansabando63@email.com</p>
+  <p><strong>Teléfono:</strong> +593 992793636</p>
+
+  <h2>Educación</h2>
+  <p>Graduado del colegio Unidad Educativa Fiscal "Provincia del Tungurahua"</p>
+  <p>Titulo obtenido: Bachiller en Aplicaciones informáticas</p>
+
+  <p>Estudios de tercer nivel en curso en la Universidad de Guayaquil"</p>
+  <p>5to semestre aprobado en la carrera de Sistemas de Información</p>
+
+  <h2>Experiencia laboral</h2>
+  <ul>
+    <li>Municipalidad de Guayaquil - 3 meses siendo pasante en soporte técnico</li>
+  </ul>
+
+</body>
+</html>
+
